@@ -27,4 +27,4 @@ Proyek ini adalah langkah awal yang sangat krusial dalam perjalanan *Full-Stack 
 
 ## 📺 Video Demo & Penjelasan Lengkap
 Untuk melihat cara kerja aplikasi ini, *code review*, dan penjelasan alur autentikasi, silakan tonton video demo proyek ini di channel YouTube saya:
-👉 **[Tautkan URL Video YouTube Anda di Sini]**
+👉 **https://youtu.be/CUbXRbw6CbI?si=tDod0ZSqPqFNTRbC**
